@@ -1,0 +1,6 @@
+{
+  "log_folder": "./logs",
+  "listen_port": 8080,
+  "api_port": 8081,
+  "stratum_port": 3333
+}
